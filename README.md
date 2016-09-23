@@ -12,4 +12,4 @@ The actual hologram is displayed using a clear prism that we built, placed atop 
 
 Try it out
 ====
-[conversation-test.mybluemix.net](conversation-test.mybluemix.net)
+[conversation-test.mybluemix.net](http://conversation-test.mybluemix.net)
